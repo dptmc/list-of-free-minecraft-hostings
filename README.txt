@@ -34,7 +34,7 @@ Cons:
 Facts:
 ? Server creation queue (My case - 20 queue-humans and 10 minutes)
 
-3. Aternos
+2. Aternos
 https://aternos.org/:ru/
 
 FREE PLAN:
